@@ -1,0 +1,16 @@
+{
+  "Nickname": "Leveled Deleter",
+  "Visibility": "Visible",
+  "OneLineDescription": "Remove items from leveled lists individually, or based on their keyword",
+  "LongDescription": "Remove items from leveled lists individually, or based on their keyword",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "EnderalLE",
+    "EnderalSE",
+    "SkyrimSEGog"
+  ]
+}
